@@ -17,3 +17,5 @@ int main() {
   
     return 0;
 }
+
+Link: https://www.hackerrank.com/challenges/cpp-input-and-output/submissions/code/291087207
